@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+
+m1.wav
+# local recordings and outputs in the repo root (examples live in example/)
+/*.wav
+/*.png
+/*.csv
+.DS_Store
